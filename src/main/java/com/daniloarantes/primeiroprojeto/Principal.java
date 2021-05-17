@@ -10,6 +10,7 @@ package com.daniloarantes.primeiroprojeto;
  * @author Danilo Arantes <danilo at daniloarantes.com>
  */
 public class Principal {
+    // Método principal
     public static void main(String[] args) {
         
     }
