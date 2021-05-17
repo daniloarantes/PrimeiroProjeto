@@ -20,6 +20,7 @@ public class Principal {
         System.out.println("A WILD FILLIPE APPEARED!");
 
         System.out.println("Everaldo esteve aqui");
+        System.out.println("ME DA 2 MOEDA");
 
     }
 }
